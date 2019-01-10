@@ -1,0 +1,1 @@
+Creating Java Data Model that implements the equivalent relational model of a Movie application UML, fulfills the use cases, implements the relations, and enforces the constraints. Implemented Data Access Objects (DAOs) that encapsulate access to the database applying best practices.
